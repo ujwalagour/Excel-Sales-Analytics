@@ -32,5 +32,6 @@ The analysis helps businesses optimize sales strategies, improve customer relati
 Analyzed **net sales performance of individual customers across years** to identify customer contribution, sales trends, and opportunities for improved sales strategies.
 
 ### 2. Market Performance vs Target Report
+![Market Performance vs Target](https://github.com/ujwalagour/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.png)
 
 Analyzed **country-level sales performance against targets across years** to help stakeholders monitor target achievement, identify performance gaps, and evaluate potential market opportunities.
