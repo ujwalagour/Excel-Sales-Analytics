@@ -26,7 +26,8 @@ The analysis helps businesses optimize sales strategies, improve customer relati
 
 ## Reports Created
 
-### 1. Customer Performance Report 
+### 1. Customer Performance Report  
+![Customer Performance Report](https://github.com/ujwalagour/Excel-Sales-Analytics/blob/main/Net%20Sales%20Performance.png)
 
 Analyzed **net sales performance of individual customers across years** to identify customer contribution, sales trends, and opportunities for improved sales strategies.
 
