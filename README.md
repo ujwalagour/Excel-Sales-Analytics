@@ -35,3 +35,8 @@ Analyzed **net sales performance of individual customers across years** to ident
 ![Market Performance vs Target](https://github.com/ujwalagour/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.png)
 
 Analyzed **country-level sales performance against targets across years** to help stakeholders monitor target achievement, identify performance gaps, and evaluate potential market opportunities.
+
+### Key Insights:
+• Identified an overall 8.4% ($54.9M) shortfall against the 2021 sales target.
+• Identified India as the highest-performing market ($161.3M) and observed significant growth from $30.8M in 2019.
+• Identified underperforming markets, including Poland (-15.3%), Canada (-12.8%), and Spain (-12.4%), highlighting opportunities for targeted sales improvement.
