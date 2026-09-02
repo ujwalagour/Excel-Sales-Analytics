@@ -6,7 +6,7 @@ Developed two interactive sales reports in Excel to help sales teams evaluate cu
 
 ## Project Description
 
-Created an FMCG sales analytics solution using **Excel, Pivot Tables, Power Query, and basic DAX** to analyze customer and market performance across multiple years.
+Created an FMCG sales analytics solution using **Excel, Pivot Tables, Power Query, and DAX** to analyze customer and market performance across multiple years.
 
 The **Customer Performance Report** analyzes net sales performance by customer, helping stakeholders evaluate customer contribution and identify opportunities for effective discounting and customer negotiations.
 
